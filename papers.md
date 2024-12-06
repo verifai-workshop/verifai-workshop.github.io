@@ -1,16 +1,16 @@
 ---
 layout: page
-title: MATH-AI
-subtitle: "The 4th Workshop on Mathematical Reasoning and AI"
+title: The VerifAI Workshop
+subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2025"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Vancouver, December 14, 2024, <a href="https://mathai2024.github.io/" target="_blank">Website</a>)
+  (Singapore, April 27/28, 2025)
 </div>
 
 # Accepted Papers
 
-The list of accepted papers can be found on OpenReview <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI#tab-accept">here</a>.
+Coming soon...
 
 # Reviewers
 

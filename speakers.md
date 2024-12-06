@@ -1,7 +1,7 @@
 ---
 layout: page
-title: title: MATH-AI
-subtitle: "Toward Human-Level Mathematical Reasoning"
+title: The VerifAI Workshop
+subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2025"
 use-site-title: true
 ---
 

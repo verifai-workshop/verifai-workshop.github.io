@@ -17,7 +17,7 @@
   <meta name="author" content="" />
 
   
-  <meta name="description" content="The 4th Workshop on Mathematical Reasoning and AI">
+  <meta name="description" content="VerifAI: AI Verification in the Wild @ ICLR 2025">
   
 
   <!--  -->
@@ -68,11 +68,11 @@
   
 
   
-  <meta property="og:title" content="MATH-AI" />
+  <meta property="og:title" content="The VerifAI Workshop" />
   
 
   
-  <meta property="og:description" content="The 4th Workshop on Mathematical Reasoning and AI">
+  <meta property="og:description" content="VerifAI: AI Verification in the Wild @ ICLR 2025">
   
 
   <meta name="image" property="og:image" content="https://mathai2022.github.io/img/logo/1600_1200.png">
@@ -93,11 +93,11 @@
   <meta name="twitter:creator" content="@" />
 
   
-  <meta name="twitter:title" content="MATH-AI" />
+  <meta name="twitter:title" content="The VerifAI Workshop" />
   
 
   
-  <meta name="twitter:description" content="The 4th Workshop on Mathematical Reasoning and AI">
+  <meta name="twitter:description" content="VerifAI: AI Verification in the Wild @ ICLR 2025">
   
 
   
@@ -206,11 +206,11 @@
     <!-- <div class="row"> -->
       <!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> -->
         <div class="page-heading">
-          <h1>MATH-AI</h1>
+          <h1>The VerifAI Workshop</h1>
 		  
 		    
             <hr class="small">
-            <span class="page-subheading">The 4th Workshop on Mathematical Reasoning and AI</span>
+            <span class="page-subheading">VerifAI: AI Verification in the Wild @ ICLR 2025</span>
 			
 		  
 		  
@@ -228,51 +228,40 @@
 
 <div class="container" role="main">
   <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Vancouver, December 14, 2024, <a href="https://mathai2024.github.io/" target="_blank">Website</a>)
+  (Singapore, April 27/28, 2025)
 </div>
 
 <h1 id="call-for-papers">Call for Papers</h1>
 
-<p>Recent advancements in large language models (LLMs) have unlocked new opportunities at the intersection of artificial intelligence and mathematical reasoning, ranging from new methods that solve complex problems or prove theorems, to new forms of human-machine collaboration in mathematics and beyond.</p>
-
-<p>Our proposed workshop is centered on the intersection of arficial intelligence and mathematical reasoning, with an emphasis on, but not limited to, large language models. 
-Our guiding theme is:</p>
-
-<p><em>“To what extent can machine learning models comprehend mathematics, and what applications could arise from this capability?”</em></p>
-
-<p>To address this question, we aim to bring together a diverse group of scholars from different backgrounds, institutions, and disciplines into our workshop. Our objective is to foster a lively and constructive dialogue on areas related, but not limited, to the following:</p>
+<p>This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. Formal analysis tools such as theorem provers, satisfiability solvers, and execution monitoring have demonstrated success in ensuring properties of interest across a range of tasks in software development and mathematics where precise reasoning is necessary. However, these methods face scaling challenges. Recently, generative AI such as large language models (LLMs) has been explored as a scalable and adaptable option to create solutions in these settings. The effectiveness of AI in these settings increases with more compute and data, but unlike traditional formalisms, they are built around probabilistic methods – not correctness by construction. In the VerifAI: AI Verification in the Wild workshop we invite papers and discussions that discuss how to bridge these two fields. Potential angles include, but are not limited to the following:</p>
 <ul>
-  <li><strong>Humans vs. machines</strong>: A comparative study of human-level mathematical reasoning and current AI techniques. How do they differ, complement one another, or intersect?</li>
-  <li><strong>Measuring mathematical reasoning</strong>: How do we design benchmarks which accurately evaluate mathematical reasoning abilities, especially in an era of large language models?</li>
-  <li><strong>New capabilities</strong>: How do we move beyond our current techniques?</li>
-  <li><strong>Education</strong>: What role can deep learning models play in mathematics education, especially in contexts with limited educational resources?</li>
-  <li><strong>Applications</strong>: What applications could AI systems enable in the near- and long-term? Example domains include software verification, sciences, engineering, finance, education, and mathematics itself.</li>
+  <li><strong>Generative AI for formal methods</strong>: Formal methods offer strong guarantees of desired or undesired properties, but they can be challenging to implement. When faced with nonhalting proofs or extensive search spaces, machine learning approaches can help guide those search processes effectively and LLMs may even write the theorems themselves. How can we further integrate AI to enhance verification practices? How can we ensure that AI-generated test conditions align with actual desired properties?</li>
+  <li><strong>Formal methods for generative AI</strong>: Generative AI can benefit from formal methods, which provide assurance and thus build trust. For example, satisfiability solvers can be used as a bottleneck in reasoning domains, code generated by the model can be annotated with specifications for program analysis tools to ensure its correctness, and even simple symbolic methods such as automata simulators can steer AI generations towards more logically consistent behavior. How else can we integrate formal methods into generative AI development and usage?</li>
+  <li><strong>AI as verifiers</strong>: Hard guarantees can be notoriously rigid and/or difficult to achieve. In these cases, probabilistic methods are appealing alternatives to provide “soft assurances”. How can we develop more robust and trustworthy verifiers from probabilistic methods? In what settings is it appropriate to make verification more flexible using probabilistic methods?</li>
+  <li><strong>Datasets and benchmarks</strong>: The advancement of research at the intersection of generative AI and formal methods relies heavily on the availability of robust datasets and benchmarks. We welcome papers that present new datasets and benchmarks in reasoning, theorem proving, code generation, and related areas. How can we design benchmarks that accurately reflect the challenges in combining probabilistic models with formal (or informal) verification?</li>
+  <li><strong>Special Theme: LLMs for Code Generation</strong>: The use of LLMs for code generation has grown significantly, with a growing body of research advocating for the integration of formal structures and tools, such as context-free grammars , static analyzers , and SMT-guided repair . These methods aim to improve both the safety and effectiveness of code generated by LLMs, particularly for low-resource programming languages. In the context of code generation, LLM agents can leverage tool use and learning from execution feedback  to validate their generations. This year, our special theme invites researchers to explore how techniques from programming languages and formal methods communities can further enhance LLM-driven code generation.</li>
 </ul>
+
+<p>We welcome novel methodologies, analytic contributions, works in progress, negative results, and review and positional papers that will foster discussion. We will also have a track for tiny or short papers.</p>
 
 <h3 id="important-dates">Important Dates</h3>
 
 <!-- <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-<p><strong>Paper submission opens:</strong> August 1, 2024 <br />
-<strong>Deadline for paper submission</strong>: <s>September 20, 2024</s> September 25, 2024 (AoE time)<br />
-<strong>Notification:</strong> October 9, 2024 <br />
-<strong>Camera Ready:</strong> October 30, 2024 <br />
-<strong>Workshop:</strong> December 14, 2024</p>
+<p><strong>Paper submission opens:</strong> TBD <br />
+<strong>Deadline for paper submission</strong>: TBD<br />
+<strong>Notification:</strong> TBD <br />
+<strong>Camera Ready:</strong> TBD <br />
+<strong>Workshop:</strong> April 27/28, 2025</p>
 
 <h3 id="submission-requirements">Submission Requirements</h3>
 
-<p>Submissions to MATH-AI 2024 are limited to 4 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 4 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.</p>
+<p>Submissions to VerifAI are limited to 8 pages of content, but may contain an unlimited number of pages for references and appendices. The latter may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the 8 pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.</p>
 
-<p>All submissions must be formatted with LaTeX using the <a href="/img/neurips_2024.zip">NeurIPS paper format</a>. The checklist is not necessary.</p>
+<p>All submissions must be formatted with LaTeX using the <a href="https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip">ICLR paper format</a>.</p>
 
-<p>All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. The page limit for these submissions is 4 pages. Accepted papers will be displayed on the MATH-AI 2024 homepage, but are to be considered non-archival.</p>
+<p>All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. Accepted papers will be displayed on the VerifAI homepage, but are to be considered non-archival.</p>
 
-<p>Submission Link: <a href="https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI">https://openreview.net/group?id=NeurIPS.cc/2024/Workshop/MATH-AI</a></p>
-
-<h3 id="camera-ready-requirements">Camera-ready Requirements</h3>
-
-<p>The final version of all accepted papers will be given one additional page of content (up to 5 pages) so that reviewers’ comments can be taken into account.</p>
-
-<p>Please email any inquiries to <a href="mailto:mathai.neurips2024@gmail.com">mathai.neurips2024@gmail.com</a>.</p>
+<p>Submission Link: coming soon…</p>
 
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">

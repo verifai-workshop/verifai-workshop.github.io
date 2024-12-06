@@ -12,10 +12,12 @@
     function load() { if (window.location.hash) shiftWindow(); }
   </script>
   
-  <title>Speakers &amp; Panelists</title>
+  <title>4th MATH-AI Workshop at NeurIPS'24 - Math-AI</title>
 
   <meta name="author" content="" />
 
+  
+  <meta name="description" content="VerifAI: AI Verification in the Wild @ ICLR 2025">
   
 
   <!--  -->
@@ -66,28 +68,11 @@
   
 
   
-  <meta property="og:title" content="Speakers &amp; Panelists" />
+  <meta property="og:title" content="The VerifAI Workshop" />
   
 
   
-  <meta property="og:description" content="# Speakers &amp; Panelists
-
-  {% for p in site.data.speakers %}
-  {% if forloop.index
-    
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% include profile.html p=p %}
-    
-    
-    {% capture id %}{{ p[1] }}{% endcapture %}
-    {% include profile_detail.html p=p %}
-    
-  
-  
-  {% endif %}
-  {% endfor %}
-
-">
+  <meta property="og:description" content="VerifAI: AI Verification in the Wild @ ICLR 2025">
   
 
   <meta name="image" property="og:image" content="https://mathai2022.github.io/img/logo/1600_1200.png">
@@ -108,28 +93,11 @@
   <meta name="twitter:creator" content="@" />
 
   
-  <meta name="twitter:title" content="Speakers &amp; Panelists" />
+  <meta name="twitter:title" content="The VerifAI Workshop" />
   
 
   
-  <meta name="twitter:description" content="# Speakers &amp; Panelists
-
-  {% for p in site.data.speakers %}
-  {% if forloop.index
-    
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% include profile.html p=p %}
-    
-    
-    {% capture id %}{{ p[1] }}{% endcapture %}
-    {% include profile_detail.html p=p %}
-    
-  
-  
-  {% endif %}
-  {% endfor %}
-
-">
+  <meta name="twitter:description" content="VerifAI: AI Verification in the Wild @ ICLR 2025">
   
 
   
@@ -238,7 +206,12 @@
     <!-- <div class="row"> -->
       <!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> -->
         <div class="page-heading">
-          <h1>Speakers &amp; Panelists</h1>
+          <h1>The VerifAI Workshop</h1>
+		  
+		    
+            <hr class="small">
+            <span class="page-subheading">VerifAI: AI Verification in the Wild @ ICLR 2025</span>
+			
 		  
 		  
 		  
@@ -261,19 +234,19 @@
   <div class="row">
     <div class="col-sm">
     
-    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="javigad" style="height: 300px">
-  <img src="/img/javigad.jpg" alt="Jeremy Avigad" class="img-circle" style="width: 200px;margin:5px" />
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="swang" style="height: 300px">
+  <img src="/img/swang.jpg" alt="Sida Wang" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://www.andrew.cmu.edu/user/avigad/">Jeremy Avigad</a>
+  <a href="">Sida Wang</a>
   <br />
-  Carnegie Mellon University
+  FAIR
 </div>
 
     </div>
     <div class="col">
     
-    <div class="col-md-6 offset-md-2" id="javigad">
-  Jeremy is a professor in the Department of Philosophy and the Department of Mathematical Sciences at Carnegie Mellon University. His research focuses on mathematical logic and formal methods in mathematics, as well as the philosophy and history of mathematics.
+    <div class="col-md-6 offset-md-2" id="swang">
+  Sida I. Wang is a research scientist at Facebook AI Research (FAIR). Sida researches unsupervised translation, including recent work with reasoning about programming languages.
 </div>
     </div>
   </div>
@@ -285,18 +258,18 @@
     <div class="col-sm">
     
     <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="sbengio" style="height: 300px">
-  <img src="/img/sbengio.jpg" alt="Samy Bengio" class="img-circle" style="width: 200px;margin:5px" />
+  <img src="/img/slu.jpg" alt="Shan Lu" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://bengio.abracadoudou.com/">Samy Bengio</a>
+  <a href="">Shan Lu</a>
   <br />
-  Apple
+  UChicago
 </div>
 
     </div>
     <div class="col">
     
     <div class="col-md-6 offset-md-2" id="sbengio">
-  Samy Bengio is a Senior Directory of AI and Machine Learning Research at Apple. His recent work has studied the reasoning abilities of transformers, particularly from a mathematical and theoretical perspective. Before that, he was a distinguished scientist at Google Research since 2007 where he was heading the Google Brain team, and at IDIAP in the early 2000s where he co-wrote the well-known open-source Torch machine learning library.
+  Shan Lu is a professor at the University of Chicago. Her research focuses on software reliability and efficiency, particularly detecting, diagnosing, and fixing functional and performance bugs in large software systems.
 </div>
     </div>
   </div>
@@ -307,19 +280,19 @@
   <div class="row">
     <div class="col-sm">
     
-    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="nbrown" style="height: 300px">
-  <img src="/img/nbrown.jpg" alt="Noam Brown" class="img-circle" style="width: 200px;margin:5px" />
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="kellis" style="height: 300px">
+  <img src="/img/kellis.jpg" alt="Kevin Ellis" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://noambrown.github.io/">Noam Brown</a>
+  <a href="">Kevin Ellis</a>
   <br />
-  OpenAI
+  Cornell
 </div>
 
     </div>
     <div class="col">
     
-    <div class="col-md-6 offset-md-2" id="nbrown">
-  Noam Brown is a research scientist at OpenAI working on multi-step reasoning, self-play, and multi-agent AI. He previously developed CICERO, the first AI to achieve human-level performance at Diplomacy and previously created the first AI to defeat top humans in no-limit poker.
+    <div class="col-md-6 offset-md-2" id="kellis">
+  Kevin Ellis is an assistant professor at Cornell University. He researches the intersection of machine learning, program synthesis, and cognitive science. 
 </div>
     </div>
   </div>
@@ -330,19 +303,19 @@
   <div class="row">
     <div class="col-sm">
     
-    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="junehyuk" style="height: 300px">
-  <img src="/img/junehyuk.jpg" alt="Junehyuk Jung" class="img-circle" style="width: 200px;margin:5px" />
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="efirst" style="height: 300px">
+  <img src="/img/efirst.jpg" alt="Emily First" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://sites.google.com/brown.edu/junehyuk">Junehyuk Jung</a>
+  <a href="">Emily First</a>
   <br />
-  Brown
+  UCSD
 </div>
 
     </div>
     <div class="col">
     
-    <div class="col-md-6 offset-md-2" id="junehyuk">
-  Junehyuk Jung is an associate professor of mathematics at Brown University, and a Visiting Researcher at Google DeepMind. He is interested in problems involving arithmetic hyperbolic manifolds and/or eigenfunctions of the Laplace-Beltrami operator.
+    <div class="col-md-6 offset-md-2" id="efirst">
+  Emily First is a postdoctoral researcher at UC San Diego working with Sorin Lerner. She previously completed her PhD at UMass Amherst under Yuriy Brun. Her research is at the intersection of software engineering, programming languages, and machine learning. She focuses on creating tools to automatically generate proofs of software correctness.
 </div>
     </div>
   </div>
@@ -353,19 +326,19 @@
   <div class="row">
     <div class="col-sm">
     
-    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="dsong" style="height: 300px">
-  <img src="/img/dsong.jpg" alt="Dawn Song" class="img-circle" style="width: 200px;margin:5px" />
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="nrao" style="height: 300px">
+  <img src="/img/nrao.jpg" alt="Nikitha Rao" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://dawnsong.io/">Dawn Song</a>
+  <a href="">Nikitha Rao</a>
   <br />
-  UC Berkeley
+  CMU
 </div>
 
     </div>
     <div class="col">
     
-    <div class="col-md-6 offset-md-2" id="dsong">
-  Dawn Song is a Professor at UC Berkeley. She has done research in AI and deep learning, blockchain/web3, security and privacy, as well as AI for coding and mathematical reasoning. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, and the NSF CAREER Award.
+    <div class="col-md-6 offset-md-2" id="nrao">
+  Nikitha Rao is a PhD student at Carnegie Mellon University, advised by Vincent Hellendoorn and Claire Le Goues. She researches the use of large language models in code generation and reasoning.
 </div>
     </div>
   </div>
@@ -376,19 +349,19 @@
   <div class="row">
     <div class="col-sm">
     
-    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="awagner" style="height: 300px">
-  <img src="/img/awagner.jpg" alt="Adam Wagner" class="img-circle" style="width: 200px;margin:5px" />
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="epolgreen" style="height: 300px">
+  <img src="/img/epolgreen.jpg" alt="Elizabeth Polgreen" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://users.wpi.edu/~zadam/index.html">Adam Wagner</a>
+  <a href="">Elizabeth Polgreen</a>
   <br />
-  WPI and Google DeepMind
+  University of Edinburgh
 </div>
 
     </div>
     <div class="col">
     
-    <div class="col-md-6 offset-md-2" id="awagner">
-  Adam Wagner is an assistant professor of mathematics at WPI and a mathematical consultant for Google DeepMind. His former focus was in combinatorics and graph theory, though his recent work has shifted towards finding ways to integrate AI with mathematics research to aid mathematical intuition and advance mathematical research.
+    <div class="col-md-6 offset-md-2" id="epolgreen">
+  Elizabeth Polgreen is an assisant professor at the University of Edinburgh. She is interested in formal program synthesis techniques and the use of synthesis to increase the scalability of verification.
 </div>
     </div>
   </div>
@@ -399,19 +372,42 @@
   <div class="row">
     <div class="col-sm">
     
-    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="dzhou" style="height: 300px">
-  <img src="/img/dzhou.jpg" alt="Denny Zhou" class="img-circle" style="width: 200px;margin:5px" />
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="ksen" style="height: 300px">
+  <img src="/img/ksen.jpg" alt="Koushik Sen" class="img-circle" style="width: 200px;margin:5px" />
   <br />
-  <a href="https://dennyzhou.github.io/">Denny Zhou</a>
+  <a href="">Koushik Sen</a>
   <br />
-  Google DeepMind
+  Berkeley
 </div>
 
     </div>
     <div class="col">
     
-    <div class="col-md-6 offset-md-2" id="dzhou">
-  Denny is the founder and lead of the Reasoning Team in Google Brain, aiming to revolutionize machine learning by introducing reasoning to address challenges such as learning from few examples or instructions only, enhancing interpretability, and handling out-of-distribution/domain generalization.
+    <div class="col-md-6 offset-md-2" id="ksen">
+  Koushik Sen is a professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. His research interest lies in Software Engineering, Programming Languages, and Formal methods. He is interested in developing software tools and methodologies that improve programmer productivity and software quality.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="pyin" style="height: 300px">
+  <img src="/img/pyin.jpg" alt="Pengcheng Yin" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="">Pengcheng Yin</a>
+  <br />
+  Deepmind
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="pyin">
+  Pengcheng Yin is a research scientist at Google Deepmind, working at the intersection of natural language processing and machine learning to produce research and products for software engineering.
 </div>
     </div>
   </div>

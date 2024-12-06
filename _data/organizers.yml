@@ -17,14 +17,14 @@ txo:
   name: "Theo X. Olausson"
   url: "https://people.csail.mit.edu/theoxo/"
   affiliation: "MIT"
-  img: "txo.png"
+  img: "txo.jpg"
 tyu:
   name: "Tao Yu"
   url: "https://taoyds.github.io/"
   affiliation: "HKU"
-  img: "tyu.png"
+  img: "tyu.jpg"
 swelleck:
   name: "Sean Welleck"
   url: "https://wellecks.com/"
   affiliation: "CMU"
-  img: "swelleck.png"
+  img: "swelleck.jpg"
