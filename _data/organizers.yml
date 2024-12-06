@@ -1,0 +1,30 @@
+clee:
+  name: "Celine Lee"
+  url: "https://celine-lee.github.io/"
+  affiliation: "Cornell"
+  img: "clee.jpg"
+wzhao:
+  name: "Wenting Zhao"
+  url: "https://wenting-zhao.github.io/"
+  affiliation: "Cornell"
+  img: "wzhao.jpg"
+ashah:
+  name: "Ameesh Shah"
+  url: "https://ameesh-shah.github.io/"
+  affiliation: "Berkeley"
+  img: "ashah.jpg"
+txo:
+  name: "Theo X. Olausson"
+  url: "https://people.csail.mit.edu/theoxo/"
+  affiliation: "MIT"
+  img: "txo.png"
+tyu:
+  name: "Tao Yu"
+  url: "https://taoyds.github.io/"
+  affiliation: "HKU"
+  img: "tyu.png"
+swelleck:
+  name: "Sean Welleck"
+  url: "https://wellecks.com/"
+  affiliation: "CMU"
+  img: "swelleck.png"

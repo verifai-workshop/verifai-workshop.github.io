@@ -1,0 +1,99 @@
+opening:
+  event: "Opening Remarks"
+  start: "08:55-09:00"
+  type: "General"
+
+speaker:
+  event: "Invited Speaker 1"
+  title: "Invited Speaker 1"
+  start: "09:00-09:30"
+  type: "Invited"
+
+speaker:
+  event: "Invited Speaker 2"
+  title: "Invited Speaker 2"
+  start: "09:30-10:00"
+  type: "Invited"
+
+
+speaker:
+  event: "Invited Speaker 3"
+  title: "Invited Speaker 3"
+  start: "10:00-10:30"
+  type: "Invited"
+
+Break1:
+  event: "Coffee Break"
+  title: ""
+  author: ""
+  start: "10:30-11:00"
+  type: "General"
+
+poster1:
+  event: "Poster Session 1"
+  title: "Poster Session 1"
+  start: "11:00-12:00"
+  type: "General" 
+
+speaker:
+  event: "Invited Speaker 4"
+  title: "Invited Speaker 4"
+  start: "12:00-12:30"
+  type: "Invited"
+
+Break2:
+  event: "Lunch Break"
+  title: ""
+  author: ""
+  start: "12:30-13:30"
+  type: "General"
+
+speaker:
+  event: "Invited Speaker 5"
+  title: "Invited Speaker 5"
+  start: "13:30-14:00"
+  type: "Invited"
+
+
+speaker:
+  event: "Invited Speaker 6"
+  title: "Invited Speaker 6"
+  start: "14:00-14:30"
+  type: "Invited"
+
+contrib1:
+  title: "Highlight talk 1"
+  name: "TBD"
+  start: "14:00-14:20"
+  type: "Contributed"
+
+contrib2:
+  title: "Highlight talk 2"
+  name: "TBD"
+  start: "14:20-14:40"
+  type: "Contributed"
+
+contrib3:
+  title: "Highlight talk 3"
+  name: "TBD"
+  start: "14:40-15:00"
+  type: "Contributed"
+
+poster2:
+  event: "Poster Session 2"
+  title: "Poster Session 2"
+  start: "15:00-16:00"
+  type: "General" 
+
+panel:
+  event: "Discussion Panel"
+  title: "Discussion Panel"
+  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
+  speakers: [""]
+  start: "16:00-17:00"
+  type: "Panel" 
+  
+closing:
+  event: "Closing Remarks"
+  start: "17:00-17:05"
+  type: "General"
