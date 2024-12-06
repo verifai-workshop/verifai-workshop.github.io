@@ -1,55 +1,55 @@
 swang:
     name: "Sida Wang"
-    url: ""
+    url: "http://www.sidaw.xyz/"
     affiliation: "FAIR"
     img: "swang.jpg"
     bio: "Sida I. Wang is a research scientist at Facebook AI Research (FAIR). Sida researches unsupervised translation, including recent work with reasoning about programming languages."
 
 sbengio:
     name: "Shan Lu"
-    url: ""
+    url: "https://people.cs.uchicago.edu/~shanlu/"
     affiliation: "UChicago"
     img: "slu.jpg"
     bio: "Shan Lu is a professor at the University of Chicago. Her research focuses on software reliability and efficiency, particularly detecting, diagnosing, and fixing functional and performance bugs in large software systems."
 
 kellis:
     name: "Kevin Ellis"
-    url: ""
+    url: "https://www.cs.cornell.edu/~ellisk/"
     affiliation: "Cornell"
     img: "kellis.jpg"
     bio: "Kevin Ellis is an assistant professor at Cornell University. He researches the intersection of machine learning, program synthesis, and cognitive science. "
 
 efirst:
     name: "Emily First"
-    url: ""
+    url: "https://people.cs.umass.edu/~efirst/"
     affiliation: "UCSD"
     img: "efirst.jpg"
     bio: "Emily First is a postdoctoral researcher at UC San Diego working with Sorin Lerner. She previously completed her PhD at UMass Amherst under Yuriy Brun. Her research is at the intersection of software engineering, programming languages, and machine learning. She focuses on creating tools to automatically generate proofs of software correctness."
 
 nrao:
     name: "Nikitha Rao"
-    url: ""
+    url: "https://raonikitha.github.io/"
     affiliation: "CMU"
-    img: "nrao.jpg"
+    img: "nrao.png"
     bio: "Nikitha Rao is a PhD student at Carnegie Mellon University, advised by Vincent Hellendoorn and Claire Le Goues. She researches the use of large language models in code generation and reasoning."
 
 epolgreen:
     name: "Elizabeth Polgreen"
-    url: ""
+    url: "https://polgreen.github.io/"
     affiliation: "University of Edinburgh"
     img: "epolgreen.jpg"
     bio: "Elizabeth Polgreen is an assisant professor at the University of Edinburgh. She is interested in formal program synthesis techniques and the use of synthesis to increase the scalability of verification."
 
 ksen:
     name: "Koushik Sen"
-    url: ""
+    url: "https://people.eecs.berkeley.edu/~ksen/?rnd=1733505749234ksen"
     affiliation: "Berkeley"
     img: "ksen.jpg"
     bio: "Koushik Sen is a professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley. His research interest lies in Software Engineering, Programming Languages, and Formal methods. He is interested in developing software tools and methodologies that improve programmer productivity and software quality."
 
 pyin:
     name: "Pengcheng Yin"
-    url: ""
+    url: "https://pengcheng.in/"
     affiliation: "Deepmind"
     img: "pyin.jpg"
     bio: "Pengcheng Yin is a research scientist at Google Deepmind, working at the intersection of natural language processing and machine learning to produce research and products for software engineering."

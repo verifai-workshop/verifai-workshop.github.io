@@ -18,7 +18,12 @@ use-site-title: true
 If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](404.html).
 
 # Overview
-This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. Formal analysis tools such as theorem provers, satisfiability solvers, and execution monitoring have demonstrated success in ensuring properties of interest across a range of tasks in software development and mathematics where precise reasoning is necessary. However, these methods face scaling challenges. Recently, generative AI such as large language models (LLMs) has been explored as a scalable and adaptable option to create solutions in these settings. The effectiveness of AI in these settings increases with more compute and data, but unlike traditional formalisms, they are built around probabilistic methods – not correctness by construction. In the VerifAI: AI Verification in the Wild workshop we invite papers and discussions that discuss how to bridge these two fields. Potential angles include, but are not limited to the following: generative AI for formal methods, formal methods for generative AI, AI as verifiers, datasets and benchmarks, and a special theme: LLMs for code generation. We welcome novel methodologies, analytic contributions, works in progress, negative results, and review and positional papers that will foster discussion. We will also have a track for tiny or short papers.
+This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. 
+
+
+Formal analysis tools such as theorem provers, satisfiability solvers, and execution monitoring have demonstrated success in ensuring properties of interest across a range of tasks in software development and mathematics where precise reasoning is necessary. However, these methods face scaling challenges. Recently, generative AI such as large language models (LLMs) has been explored as a scalable and adaptable option to create solutions in these settings. The effectiveness of AI in these settings increases with more compute and data, but unlike traditional formalisms, they are built around probabilistic methods – not correctness by construction. 
+
+In the VerifAI: AI Verification in the Wild workshop we invite papers and discussions that discuss how to bridge these two fields. See our [call for papers](cfp/index.html).
 
 <hr>
 
@@ -92,11 +97,16 @@ This workshop explores the intersection of scale-driven generative artificial in
 # Related Venues
 
 <div class="container" style="margin-bottom: 10px;"></div>
-- [NeurIPS'24 Workshop on Formal Verification and Machine Learning (WFVML 2024)](https://www.ml-verification.com/) 
+- [Deep Learning for Code (DL4C)](https://dl4c.github.io/) 
+- [Large Language Models for Code (LLM4Code)](https://llm4code.github.io/) 
+- [Workshop on Mathematical Reasoning and AI (MATH-AI)](https://mathai2024.github.io/) 
+- [Workshop on Formal Verification and Machine Learning (WFVML)](https://www.ml-verification.com/) 
+- [Symposium on AI Verification (SAIV)](https://www.aiverification.org/2024/) 
+- [Workshop on ML for Systems](https://mlforsystems.org/) 
 
 <div class="container" style="margin-bottom: 10px;"></div>
 
 <hr>
 
-<!-- Contact: <mathai.neurips2024@gmail.com>. -->
-Website template from https://mathai2024.github.io/.
+Contact: <verifai.workshop@gmail.com>.<br>
+Website template from <https://mathai2024.github.io/>.
