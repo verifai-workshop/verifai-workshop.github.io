@@ -15,7 +15,7 @@ use-site-title: true
 
 # Reviewer Nomination
 
-If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](404.html).
+If you'd like to become a reviewer for the workshop, or recommend someone, [please use this form](https://docs.google.com/forms/d/e/1FAIpQLSe4xapF9YRNDbyEibOeKCxIMCGcEtyZQKkaI8Ipqa4g29l9CQ/viewform?usp=sf_link).
 
 # Overview
 This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. 
