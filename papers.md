@@ -12,7 +12,7 @@ use-site-title: true
 
 Coming soon...
 
-# Reviewers
+<!-- # Reviewers
 
 We are grateful to our fantastic reviewers for making our workshop reviewing process run smoothly:
 
@@ -37,4 +37,4 @@ We are grateful to our fantastic reviewers for making our workshop reviewing pro
     page-break-inside: avoid;
     padding: 2px 0;
 }
-</style>
+</style> -->
