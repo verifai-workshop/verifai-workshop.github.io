@@ -45,5 +45,5 @@ All submissions must be formatted with LaTeX using the [ICLR paper format](https
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. Accepted papers will be displayed on the VerifAI homepage, but are to be considered non-archival.
 
-Submission Link: coming soon...
+Submit here: [OpenReview portal](https://openreview.net/group?id=ICLR.cc/2025/Workshop/VerifAI).
 
