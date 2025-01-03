@@ -29,10 +29,10 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 ### Important Dates 
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
-**Paper submission opens:** TBD <br>
-**Deadline for paper submission**: TBD<br>
-**Notification:** TBD <br>
-**Camera Ready:** TBD <br>
+**Paper submission opens:** January 6, 2025 <br>
+**Deadline for paper submission**: February 3, 2025<br>
+**Notification:** March 5, 2025 <br>
+**Camera Ready:** March 20, 2025 <br>
 **Workshop:** April 27/28, 2025
 
 ### Submission Requirements
