@@ -39,6 +39,8 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 
 Submissions to VerifAI are limited to 8 pages of content for regular submissions, and 2 pages of content for tiny papers.
 
+**Tiny papers**: This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3-5 pages in ICLR format, exact page length to be determined by each workshop) paper submissions, with an eye towards inclusion; see ​​[the ICLR page](https://iclr.cc/Conferences/2025/CallForTinyPapers) for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on [their website](https://iclr.cc/Conferences/2025/) at the beginning of February and close on March 2nd. 
+
 Outside of the content page limit, submissions may also contain an unlimited number of pages for references and appendices. These may not necessarily be read by the reviewers. We request and recommend that authors rely on the supplementary material only to include minor details (e.g., hyperparameter settings, reproducibility information, etc.) that do not fit in the main content pages pages. The review process is double-blind, so please ensure that all papers are appropriately anonymised.
 
 All submissions must be formatted with LaTeX using the [ICLR paper format](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip). 
