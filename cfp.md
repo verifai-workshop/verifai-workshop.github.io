@@ -5,7 +5,7 @@ subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2025"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Singapore, April 27/28, 2025)
+  (Singapore, April 27, 2025)
 </div>
 
 
@@ -30,7 +30,7 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
 **Paper submission opens:** January 6, 2025 <br>
-**Deadline for paper submission**: February 3, 2025<br>
+**Deadline for paper submission**: ~~February 3, 2025~~ February 7, 2025 <br>
 **Notification:** March 5, 2025 <br>
 **Camera Ready:** March 20, 2025 <br>
 **Workshop:** April 27/28, 2025
