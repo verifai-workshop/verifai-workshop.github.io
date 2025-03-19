@@ -33,7 +33,7 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 **Deadline for paper submission**: ~~February 3, 2025~~ February 7, 2025 <br>
 **Notification:** March 5, 2025 <br>
 **Camera Ready:** March 20, 2025 <br>
-**Workshop:** April 27/28, 2025
+**Workshop:** April 27, 2025
 
 ### Submission Requirements
 
@@ -47,5 +47,5 @@ All submissions must be formatted with LaTeX using the [ICLR paper format](https
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. Accepted papers will be displayed on the VerifAI homepage, but are to be considered non-archival.
 
-Submit here: [OpenReview portal](https://openreview.net/group?id=ICLR.cc/2025/Workshop/VerifAI).
+Submissions are now closed. Thank you to all who submitted, and we look forward to seeing you all in Singapore!
 
