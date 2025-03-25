@@ -5,10 +5,10 @@ swang:
     img: "swang.jpg"
     bio: "Sida I. Wang is a research scientist at Facebook AI Research (FAIR). Sida researches unsupervised translation, including recent work with reasoning about programming languages."
 
-sbengio:
+slu:
     name: "Shan Lu"
     url: "https://people.cs.uchicago.edu/~shanlu/"
-    affiliation: "UChicago"
+    affiliation: "Microsoft Research/UChicago"
     img: "slu.jpg"
     bio: "Shan Lu is a professor at the University of Chicago. Her research focuses on software reliability and efficiency, particularly detecting, diagnosing, and fixing functional and performance bugs in large software systems."
 
