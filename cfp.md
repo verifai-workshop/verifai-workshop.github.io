@@ -32,7 +32,7 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 **Paper submission opens:** January 6, 2025 <br>
 **Deadline for paper submission**: ~~February 3, 2025~~ February 7, 2025 <br>
 **Notification:** March 5, 2025 <br>
-**Camera Ready:** March 20, 2025 <br>
+**Camera Ready:** April 11, 2025 <br>
 **Workshop:** April 27, 2025
 
 ### Submission Requirements
