@@ -1,99 +1,119 @@
 opening:
   event: "Opening Remarks"
-  start: "08:55-09:00"
-  type: "General"
+  start: "08:55"
+  end:   "09:00"
+  type:  "General"
 
-speaker:
-  event: "Invited Speaker 1"
-  title: "Invited Speaker 1"
-  start: "09:00-09:30"
+invited1:
+  event: "kellis"               
+  title: "Keynote 1:"
+  start: "09:00"
+  end:   "09:30"
+  type:  "Invited"
+
+invited2:
+  event: "slu"
+  title: "Keynote 2:"
+  start: "09:30"
+  end:   "10:00"
   type: "Invited"
 
-speaker:
-  event: "Invited Speaker 2"
-  title: "Invited Speaker 2"
-  start: "09:30-10:00"
-  type: "Invited"
-
-
-speaker:
-  event: "Invited Speaker 3"
-  title: "Invited Speaker 3"
-  start: "10:00-10:30"
+invited3:
+  event: "swang"
+  title: "Keynote 3:"
+  start: "10:00"
+  end:   "10:30"
   type: "Invited"
 
 Break1:
   event: "Coffee Break"
   title: ""
   author: ""
-  start: "10:30-11:00"
+  start: "10:30"
+  end:   "11:00"
   type: "General"
 
 poster1:
   event: "Poster Session 1"
   title: "Poster Session 1"
-  start: "11:00-12:00"
+  start: "11:00"
+  end:   "12:00"
   type: "General" 
-
-speaker:
-  event: "Invited Speaker 4"
-  title: "Invited Speaker 4"
-  start: "12:00-12:30"
-  type: "Invited"
 
 Break2:
   event: "Lunch Break"
   title: ""
   author: ""
-  start: "12:30-13:30"
+  start: "12:00"
+  end:   "13:00"
   type: "General"
 
-speaker:
-  event: "Invited Speaker 5"
-  title: "Invited Speaker 5"
-  start: "13:30-14:00"
+invited4:
+  event: "efirst"
+  title: "Keynote 4:"
+  start: "13:00"
+  end:   "13:30"
   type: "Invited"
 
-
-speaker:
-  event: "Invited Speaker 6"
-  title: "Invited Speaker 6"
-  start: "14:00-14:30"
+invited5:
+  event: "csnell"
+  title: "Keynote 5:"
+  start: "13:30"
+  end:   "14:00"
   type: "Invited"
 
-contrib1:
-  title: "Highlight talk 1"
-  name: "TBD"
-  start: "14:00-14:20"
-  type: "Contributed"
-
-contrib2:
-  title: "Highlight talk 2"
-  name: "TBD"
-  start: "14:20-14:40"
-  type: "Contributed"
-
-contrib3:
-  title: "Highlight talk 3"
-  name: "TBD"
-  start: "14:40-15:00"
-  type: "Contributed"
+invited6:
+  event: "nrao"
+  title: "Keynote 6:"
+  start: "14:00"
+  end:   "14:30"
+  type: "Invited"
 
 poster2:
   event: "Poster Session 2"
   title: "Poster Session 2"
-  start: "15:00-16:00"
+  start: "14:30"
+  end:   "15:00"
   type: "General" 
+
+contrib1:
+  title: "Highlight talk 1"
+  name: "Orals 1: AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement"
+  start: "15:00"
+  end:   "15:15"
+  type: "Contributed"
+
+contrib2:
+  title: "Highlight talk 2"
+  name: "Orals 2: Self-Steering Language Models"
+  start: "15:15"
+  end:   "15:30"
+  type: "Contributed"
+
+contrib3:
+  title: "Highlight talk 3"
+  name: "Orals 3: Exact Certification of (Graph) Neural Networks Against Label Poisoning"
+  start: "15:30"
+  end:   "15:45"
+  type: "Contributed"
+
+contrib4:
+  title: "Highlight talk 4"
+  name: "Orals 4: Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+  start: "15:45"
+  end:   "16:00"
+  type: "Contributed"
 
 panel:
   event: "Discussion Panel"
   title: "Discussion Panel"
-  # speakers: "Jo Boaler (Stanford), Yuri Burda (OpenAI), Chris Piech (Stanford), Sumeet Singh (Turnitin), Kurt Vanlehn (ASU)"
-  speakers: [""]
-  start: "16:00-17:00"
+  speakers: ["ksen", "nrao", "swang", "efirst", "csnell", "xzhang"]
+  start: "16:00"
+  end:   "17:00"
   type: "Panel" 
   
 closing:
   event: "Closing Remarks"
-  start: "17:00-17:05"
+  start: "17:00"
+  end:   "17:05"
   type: "General"

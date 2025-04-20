@@ -8,18 +8,15 @@ use-site-title: true
   (Singapore, April 27, 2025)
 </div>
 
-# Schedule
 
-<!-- #### Friday, December 14th, 2023
-#### All times are in Central Standard Time (CST) ([Check local time](https://www.google.com/search?q=time+for+local+new+orleans))
+#### (All times are in Singapore Time)
 
 
-#### Location: Room 217-219, New Orleans Convention Center ([Map](https://goo.gl/maps/8WXJ8h4Svng793Cc8))
-#### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
+#### Location: Garnet 218-219, Singapore EXPO
+<!-- #### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
 
-TBD
 
-<!-- <div class="container">
+<div class="container">
   <div class="row">
     <table class="table">
         {% for s in site.data.schedule %}
@@ -34,8 +31,8 @@ TBD
           {% assign speaker_id = s[1].event %}
           {% assign speaker = site.data.speakers[speaker_id] %}
           <td >
-            <i>{{ s[1].title }}</i><br>
-            <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
+            <i>{{ s[1].title }}</i>
+            <a href="{{speaker.url}}">{{ speaker.name }}</a>
             {% if speaker.title == "TBA" %}
             {% else %}
             <br><i><b>{{ speaker.title }}</b></i>
@@ -46,8 +43,7 @@ TBD
           <td >Contributed Talk</td>
           {% assign speaker = s[1] %}
           <td >
-            <i>{{ speaker.title }}</i><br>
-            <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
+            <i>{{ speaker.name }}</i><br>
           </td>
 
         {% elsif s[1].type == "Spotlights" %}
@@ -56,7 +52,7 @@ TBD
           {% assign speaker = site.data.speakers[speaker_id] %}
           <td >
             <i>{{ s[1].title }}</i><br>
-            <a href="{{speaker.url}}">{{ speaker.name }}</a>, {{speaker.affiliation}}
+            <a href="{{speaker.url}}">{{ speaker.name }}</a>
             {% if speaker.title == "TBA" %}
             {% else %}
             <br><i><b>{{ speaker.title }}</b></i>
@@ -96,4 +92,4 @@ TBD
         {% endfor %}
     </table>
   </div>
-</div> -->
+</div>
