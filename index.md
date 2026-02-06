@@ -13,7 +13,7 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/iclr-logo.jpg" />
 
-**The submission portal is now open on [OpenReview](https://openreview.net/group?id=ICLR.cc%252F2026%252FWorkshop%252FVerifAI-2).**
+**The submission portal is now open on [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/VerifAI-2).**
 
 # Overview
 This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. 

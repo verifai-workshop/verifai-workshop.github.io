@@ -31,7 +31,7 @@ We welcome novel methodologies, analytic contributions, works in progress, negat
 
 <!--{% include dates.md %} <a href="{site.url}/2020/img/KR2ML2020_template.zip">NeurIPS paper format (adapted)</a>. -->
 **Paper submission opens:** January 5, 2026 <br>
-**Deadline for paper submission**: February 5, 2026 <br>
+**Deadline for paper submission**: ~~February 5, 2026~~ February 8 (AoE), 2026 <br>
 **Notification:** March 1, 2026 <br>
 
 ### Submission Requirements
@@ -46,4 +46,4 @@ All submissions must be formatted with LaTeX using the [ICLR paper format](https
 
 All accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. We also permit papers that have been recently published or are under submission to another venue. Please mark such papers accordingly upon submission. Accepted papers will be displayed on the VerifAI homepage, but are to be considered non-archival.
 
-All submissions must be made through [OpenReview](https://openreview.net/group?id=ICLR.cc%252F2026%252FWorkshop%252FVerifAI-2).
+All submissions must be made through [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/VerifAI-2).
