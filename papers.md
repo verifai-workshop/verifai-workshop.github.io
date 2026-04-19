@@ -10,7 +10,16 @@ use-site-title: true
 
 # Accepted Papers
 
-Coming soon...
+<div class="container">
+  <ol>
+    {% for p in site.data.papers %}
+    <li style="margin-bottom: 12px;">
+      <b>{{ p[1].title }}</b><br>
+      <i>{{ p[1].authors }}</i>
+    </li>
+    {% endfor %}
+  </ol>
+</div>
 
 <!-- # Reviewers
 

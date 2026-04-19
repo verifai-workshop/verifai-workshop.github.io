@@ -29,26 +29,8 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
-    {% if forloop.index<=3 %}
     {% capture id %}{{ p[0] }}{% endcapture %}
     {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
-  <div class="row">
-    {% for p in site.data.speakers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>3 and forloop.index<=6%}
-    {% include profile.html p=p %}
-    {% endif %}
-    {% endfor %}
-  </div>
-  <div class="row">
-    {% for p in site.data.speakers %}
-    {% capture id %}{{ p[0] }}{% endcapture %}
-    {% if forloop.index>6%}
-    {% include profile.html p=p %}
-    {% endif %}
     {% endfor %}
   </div>
 <a href="speakers">More Info</a>

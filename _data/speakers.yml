@@ -26,12 +26,12 @@ fmora:
     img: "fmora.jpg"
     bio: "Federico Mora Rocha is an Applied Scientist in the Automated Reasoning Group at Amazon Web Services, an incoming Assistant Professor at the University of Waterloo and a Faculty Affiliate at the Vector Institute. His research is centerd around automated reasoning, programming languages and their interactions with neuro-symbolic systems."
 
-epolgreen:
-    name: "Elizabeth Polgreen"
-    url: "https://polgreen.github.io/"
-    affiliation: "University of Edinburgh"
-    img: "epolgreen.jpg"
-    bio: "Elizabeth Polgreen is an assistant professor at the University of Edinburgh. She is interested in formal program synthesis techniques and the use of learning and synthesis to increase the scalability of verification."
+akumar:
+    name: "Aviral Kumar"
+    url: "https://aviralkumar2907.github.io/"
+    affiliation: "CMU"
+    img: "akumar.jpg"
+    bio: "Aviral Kumar is an Assistant Professor in Computer Science and Machine Learning at Carnegie Mellon University, where he directs the CMU AI & Reinforcement Learning lab. He completed his Ph.D. at UC Berkeley in 2023. His research spans core reinforcement learning algorithms, scaling RL methods to foundation models, and applications to real robots."
 
 njain:
     name: "Naman Jain"

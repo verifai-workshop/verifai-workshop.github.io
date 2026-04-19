@@ -1,129 +1,155 @@
-# paper_1:
-#   authors: "Belcak, Peter; Wattenhofer, Roger"
-#   title: "Neural Combinatorial Logic Circuit Synthesis from Input-Output Examples"
-#   alt_url: "../_data/papers/1.pdf"
+paper_1:
+  title: "NANOZK: Layerwise Zero-Knowledge Proofs for Verifiable Large Language Model Inference"
+  authors: "Zhaohui Wang"
 
-# paper_2:
-#   authors: "1"
-#   title: "Automatic Generation of Socratic Questions for Learning to Solve Math Word Problems"
-#   alt_url: "1"
+paper_2:
+  title: "Beaver: An Efficient Deterministic LLM Verifier"
+  authors: "Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh"
 
-# paper_3:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_3:
+  title: "RocqSmith: Can Automatic Optimization Forge Better Proof Agents?"
+  authors: "Andrei Kozyrev, Nikita Khramov, Denis Lochmelis, Valerio Morelli, Gleb Solovev, Anton Podkopaev"
 
-# paper_4:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_4:
+  title: "Agentic Uncertainty Reveals Agentic Overconfidence"
+  authors: "Jean Kaddour, Srijan Patel, Gbetondji Dovonon, Leo Richter, Pasquale Minervini, Matt Kusner"
 
-# paper_5:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_6:
+  title: "Autoformalizing Memory Device Specifications with Agents"
+  authors: "Jan Ole Ernst, Dmitri Saberi, Thomas Zimmermann, Derek Christ, Rajath Salegame, Suhaas Bhat, Stanislav Levental, Thomas Ahle, Matthias Jung"
 
-# paper_6:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_7:
+  title: "The Dual Nature of Unlearning: Impact of Fact Salience and Model Fine-Tuning"
+  authors: "Anna Borisiuk, Andrey Savchenko, Alexander Panchenko, Elena Tutubalina"
 
-# paper_7:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_8:
+  title: "Quokka: Accelerating Program Verification with LLMs via Invariant Synthesis"
+  authors: "Anjiang Wei, Tarun Suresh, Tianran Sun, Haoze Wu, Ke Wang, Alex Aiken"
 
-# paper_8:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_9:
+  title: "Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math"
+  authors: "Guijin Son, Donghun Yang, Hitesh Laxmichand Patel, Hyunwoo Ko, Amit Agarwal, Sunghee Ahn, Kyong-Ha Lee, Youngjae Yu"
 
-# paper_9:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_10:
+  title: "GLEAN: Guideline-Grounded Evidence Accumulation for High-Stakes Agent Verification"
+  authors: "Yichi Zhang, Nabeel Seedat, Yinpeng Dong, Peng Cui, Jun Zhu, Mihaela van der Schaar"
 
-# paper_10:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_11:
+  title: "Evaluating Agentic Optimization on Large Codebases"
+  authors: "Atharva Sehgal, James Hou, Akanksha Sarkar, Ishaan Mantripragada, Swarat Chaudhuri, Jennifer Sun, Yisong Yue"
 
-# paper_11:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_12:
+  title: "Conv-to-Bench: Evaluating Language Models via User–Assistant Dialogues in Code Tasks"
+  authors: "Victor dos Santos, André Castro, Samuel de Souza Toledo, Bruno Calura, Lisandra de Moura Menezes, Raul Mata, Telma de Lima Soares, Bryan Lincoln Marques de Oliveira"
 
-# paper_12:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_13:
+  title: "Geometry of Reason: Probabilistic Spectral Verification for Mathematical Reasoning"
+  authors: "Valentin Noël"
 
-# paper_13:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_14:
+  title: "A Nash Equilibrium Framework for Training-Free Multimodal Step Verification"
+  authors: "Rohit Sinha, Kunal Tilaganji, Tanuja Ganu, Nagarajan Natarajan, Amit Sharma, Vineeth Balasubramanian"
 
-# paper_14:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_15:
+  title: "ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents"
+  authors: "Dawei Li, Yuguang Yao, Zhen Tan, Huan Liu, Ruocheng Guo"
 
-# paper_15:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_16:
+  title: "ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?"
+  authors: "Ayush Nangia, Shikhar Mishra, Aman Gokrani, Paras Chopra"
 
-# paper_16:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_17:
+  title: "Identifying and Mitigating Reasoning Errors in VLM Verifiers via Activation Decomposition"
+  authors: "Joonhyuk Cha, Moises Andrade, Zsolt Kira"
 
-# paper_17:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_18:
+  title: "Learning to Repair Lean Proofs from Compiler Feedback"
+  authors: "Evan Wang, Simon Chess, Daniel Lee, Siyuan Ge, Ajit Mallavarapu, Vasily Ilin"
 
-# paper_18:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_19:
+  title: "Escaping Model Collapse via Synthetic Data Verification: Near-term Improvements and Long-term Convergence"
+  authors: "Bingji Yi, Qiyuan Liu, Yuwei Cheng, Haifeng Xu"
 
-# paper_19:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_20:
+  title: "Grounding Long-Horizon Agent Coordination in GUI Environments via Contract-based Structural Planning"
+  authors: "Hao Yu, Weiming Li, Yueming Lyu, Jie-Jing Shao, Yulei Sui, Ivor Tsang, Haiyan Yin"
 
-# paper_20:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_21:
+  title: "DafnyLLM: Pre-training Dafny Representations with Large Language Models for Code Verification"
+  authors: "Shentong Mo"
 
-# paper_21:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_22:
+  title: "Enforcing Temporal Constraints for LLM Agents"
+  authors: "Adharsh Kamath, Sishen Zhang, Changming Xu, Shubham Dipak Ugare, Gagandeep Singh, Sasa Misailovic"
 
-# paper_22:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_23:
+  title: "Epigraph-Guided Flow Matching for Safe and Performant Offline Reinforcement Learning"
+  authors: "Manan Tayal, Mumuksh Tayal"
 
-# paper_23:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_24:
+  title: "Beyond Self-Checking: Fragment-Level Verification Across Diverse LLMs"
+  authors: "Ken Mueller, Arihant Choudhary, David Perez, Scott Mueller"
 
-# paper_24:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_25:
+  title: "interwhen: A Generalizable Framework for Verifiable Reasoning with Test-time Monitors"
+  authors: "Vishak K Bhat, Prateek Chanda, Ashmit Khandelwal, Maitreyi Swaroop, Subbarao Kambhampati, Vineeth Balasubramanian, Nagarajan Natarajan, Amit Sharma"
 
-# paper_25:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_26:
+  title: "Unified Operational Formalism for LLM-based Theorem-proving Systems"
+  authors: "Avaljot Singh, Shaurya Gomber, Yasmin Sarita, José Meseguer, Gagandeep Singh"
 
-# paper_26:
-#   authors: "1"
-#   title: "1"
-#   alt_url: "1"
+paper_27:
+  title: "Learning to Rank the Initial Branching Order of SAT Solvers"
+  authors: "Arvid Eriksson, Gabriel Poesia, Roman Bresson, Karl H. Johansson, David Broman"
+
+paper_28:
+  title: "Verification Limits Code LLM Training"
+  authors: "Srishti Gureja, Marzieh Fadaee, Sara Hooker, Matthias Gallé, Jingyi He, Elena Tommasone"
+
+paper_29:
+  title: "ROC-n-reroll: How Verifier Imperfection Affects Test-time Scaling"
+  authors: "Florian Eddie Dorner, Yatong Chen, André F. Cruz, Fanny Yang"
+
+paper_30:
+  title: "Learning from Synthetic Data Improves Multi-hop Reasoning"
+  authors: "Anmol Kabra, Yilun Yin, Albert Gong, Kamilė Stankevičiūtė, Dongyoung Go, Johann Lee, Katie Luo, Carla Gomes, Kilian Weinberger"
+
+paper_31:
+  title: "Do LLMs Really Struggle at NL-FOL Translation? Revealing their Strengths via a Novel Benchmarking Strategy"
+  authors: "Andrea Brunello, Luca Geatti, Michele Mignani, Angelo Montanari, Nicola Saccomanno"
+
+paper_32:
+  title: "Computational Arbitrage in AI Model Markets"
+  authors: "Ricardo Dominguez-Olmedo, Bernhard Schölkopf, Moritz Hardt"
+
+paper_33:
+  title: "A Minimal Agent for Automated Theorem Proving"
+  authors: "Borja Requena, Austin Letson, Krystian Nowakowski, Izan Ferreiro, Leopoldo Sarra"
+
+paper_34:
+  title: "MM-Eval: A Multilingual Meta-Evaluation Benchmark for LLM-as-a-Judge and Reward Models"
+  authors: "Guijin Son, Dongkeun Yoon, Juyoung Suk, Javier Aula-Blasco, Mano Aslan, Kim Vu, Shayekh Islam, Jaume Prats-Cristià, Lucía Tormo-Bañuelos, Seungone Kim"
+
+paper_35:
+  title: "SorryDB: Can AI Provers Complete Real-World Lean Theorems?"
+  authors: "Austin Letson, Leopoldo Sarra, Auguste Poiroux, Oliver Dressler, Paul Lezeau, Dhyan Aranha, Frederick Pu, Aaron Hill, Miguel Hidalgo, Julian Berman, George Tsoukalas, Lenny Taelman"
+
+paper_36:
+  title: "Benchmarking Code Verification Strategies with LLMs-as-a-judge"
+  authors: "Arnav Kumar Jain, Justin Chiu, Tom Sherborne, Matthias Gallé"
+
+paper_37:
+  title: "Do LLMs Game Formalization? Evaluating Faithfulness in Logical Reasoning"
+  authors: "Kyuhee Kim, Auguste Poiroux, Antoine Bosselut"
+
+paper_38:
+  title: "RepairBench: Exploring Proof Repair in Lean"
+  authors: "Manooshree Patel, Bartosz Piotrowski, Leopold Haller, Hugh Leather"
+
+paper_39:
+  title: "Scaling Evaluation-Time Compute with Reasoning Models as Process Evaluators"
+  authors: "Seungone Kim, Ian Wu, Jinu Lee, Xiang Yue, Seongyun Lee, Minkyeong Moon, Carolin Lawrence, Kiril Gashteovski, Julia Hockenmaier, Graham Neubig, Sean Welleck"
+
+paper_40:
+  title: "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?"
+  authors: "Nikil Ravi, Kexing Ying, Elif Uskuplu, Rayan Krishnan, Langston Nashold, Vasilii Nesterov, Bingyu Xia, Janitha Aswedige"

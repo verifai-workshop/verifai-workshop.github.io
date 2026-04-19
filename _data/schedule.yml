@@ -1,44 +1,51 @@
 opening:
   event: "Opening Remarks"
-  start: "08:55"
-  end:   "09:00"
+  start: "09:00"
+  end:   "09:05"
   type:  "General"
 
 invited1:
-  event: "kellis"               
-  title: "Keynote 1:"
-  start: "09:00"
+  event: "mcmilin"
+  title: ""
+  start: "09:05"
   end:   "09:30"
   type:  "Invited"
 
-invited2:
-  event: "slu"
-  title: "Keynote 2:"
+contrib1:
+  title: "Oral 1"
+  name: "Oral: Enforcing Temporal Constraints for LLM Agents"
   start: "09:30"
-  end:   "10:00"
-  type: "Invited"
+  end:   "09:45"
+  type: "Contributed"
 
-invited3:
-  event: "swang"
-  title: "Keynote 3:"
-  start: "10:00"
-  end:   "10:30"
-  type: "Invited"
+contrib2:
+  title: "Oral 2"
+  name: "Oral: Computational Arbitrage in AI Model Markets"
+  start: "09:45"
+  end:   "10:00"
+  type: "Contributed"
 
 Break1:
   event: "Coffee Break"
   title: ""
   author: ""
-  start: "10:30"
-  end:   "11:00"
+  start: "10:00"
+  end:   "10:30"
   type: "General"
+
+invited2:
+  event: "akumar"
+  title: ""
+  start: "10:30"
+  end:   "10:55"
+  type: "Invited"
 
 poster1:
   event: "Poster Session 1"
   title: "Poster Session 1"
   start: "11:00"
   end:   "12:00"
-  type: "General" 
+  type: "General"
 
 Break2:
   event: "Lunch Break"
@@ -48,72 +55,72 @@ Break2:
   end:   "13:00"
   type: "General"
 
-invited4:
-  event: "efirst"
-  title: "Keynote 4:"
+invited3:
+  event: "fmora"
+  title: ""
   start: "13:00"
-  end:   "13:30"
+  end:   "13:25"
+  type: "Invited"
+
+invited4:
+  event: "gpoesia"
+  title: ""
+  start: "13:30"
+  end:   "13:55"
   type: "Invited"
 
 invited5:
-  event: "csnell"
-  title: "Keynote 5:"
-  start: "13:30"
-  end:   "14:00"
-  type: "Invited"
-
-invited6:
-  event: "nrao"
-  title: "Keynote 6:"
+  event: "njain"
+  title: ""
   start: "14:00"
-  end:   "14:30"
+  end:   "14:25"
   type: "Invited"
-
-poster2:
-  event: "Poster Session 2"
-  title: "Poster Session 2"
-  start: "14:30"
-  end:   "15:00"
-  type: "General" 
-
-contrib1:
-  title: "Highlight talk 1"
-  name: "Orals 1: AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement"
-  start: "15:00"
-  end:   "15:15"
-  type: "Contributed"
-
-contrib2:
-  title: "Highlight talk 2"
-  name: "Orals 2: Self-Steering Language Models"
-  start: "15:15"
-  end:   "15:30"
-  type: "Contributed"
 
 contrib3:
-  title: "Highlight talk 3"
-  name: "Orals 3: Exact Certification of (Graph) Neural Networks Against Label Poisoning"
+  title: "Oral 3"
+  name: "Oral: Quokka: Accelerating Program Verification with LLMs via Invariant Synthesis"
+  start: "14:30"
+  end:   "14:45"
+  type: "Contributed"
+
+contrib4:
+  title: "Oral 4"
+  name: "Oral: Beaver: An Efficient Deterministic LLM Verifier"
+  start: "14:45"
+  end:   "15:00"
+  type: "Contributed"
+
+Break3:
+  event: "Coffee Break"
+  title: ""
+  author: ""
+  start: "15:00"
+  end:   "15:30"
+  type: "General"
+
+contrib5:
+  title: "Oral 5"
+  name: "Oral: Learning to Rank the Initial Branching Order of SAT Solvers"
   start: "15:30"
   end:   "15:45"
   type: "Contributed"
 
-contrib4:
-  title: "Highlight talk 4"
-  name: "Orals 4: Scaling Test-Time Compute Without Verification or RL is Suboptimal"
+contrib6:
+  title: "Oral 6"
+  name: "Oral: Escaping Model Collapse via Synthetic Data Verification"
   start: "15:45"
   end:   "16:00"
   type: "Contributed"
 
-panel:
-  event: "Discussion Panel"
-  title: "Discussion Panel"
-  speakers: ["ksen", "nrao", "swang", "efirst", "csnell", "xzhang"]
+poster2:
+  event: "Poster Session 2"
+  title: "Poster Session 2"
   start: "16:00"
-  end:   "17:00"
-  type: "Panel" 
-  
+  end:   "16:55"
+  type: "General"
+
 closing:
   event: "Closing Remarks"
-  start: "17:00"
-  end:   "17:05"
+  start: "16:55"
+  end:   "17:00"
   type: "General"

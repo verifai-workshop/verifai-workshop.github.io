@@ -5,18 +5,17 @@ subtitle: "VerifAI: AI Verification in the Wild @ ICLR 2026"
 use-site-title: true
 ---
 <div class="venue" style="font-size: 27px; display: block; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: 300; color: #404040; text-align: center;">
-  (Rio, April 26/27, 2026)
+  (Rio de Janeiro, April 26, 2026)
 </div>
 
 
-#### TBA
-<!-- #### (All times are in Singapore Time) -->
+#### (All times are in Brasilia Time, UTC-3)
 
-<!-- 
-#### Location: Garnet 218-219, Singapore EXPO
-<!-- #### Live video stream: [Link](https://neurips.cc/virtual/2022/workshop/50015) -->
 
-<!-- 
+#### Location: Room 208
+
+#### Live video stream: [Link](https://iclr.cc/virtual/2026/workshop/10000774)
+
 <div class="container">
   <div class="row">
     <table class="table">
@@ -93,4 +92,4 @@ use-site-title: true
         {% endfor %}
     </table>
   </div>
-</div> --> 
+</div>
