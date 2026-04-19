@@ -13,7 +13,7 @@ use-site-title: true
 <div class="sharethis-inline-share-buttons"></div>
 <meta name="thumbnail" content="./img/iclr-logo.jpg" />
 
-**The submission portal is now open on [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/VerifAI-2).**
+**~~The submission portal is now open on [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/VerifAI-2).~~ Submissions are now closed. See you in Rio!**
 
 # Overview
 This workshop explores the intersection of scale-driven generative artificial intelligence (AI) and the correctness-focused principles of verification. 
@@ -25,7 +25,7 @@ In VerifAI-2: The Second Workshop on AI Verification in the Wild we invite paper
 
 <hr>
 
-# Speakers & Panelists
+# Speakers
 <div class="container" style="margin-top: 20px;margin-bottom: 0px;">
   <div class="row">
     {% for p in site.data.speakers %}
