@@ -15,9 +15,9 @@ gpoesia:
 mcmilin:
     name: "Emily McMilin"
     url: "https://2dot71mily.github.io/"
-    affiliation: "Meta"
+    affiliation: "Meta FAIR"
     img: "mcmilin.png"
-    bio: "Emily McMilin is currently a research scientist at Meta working on Language Modeling, Causal Inference, and Applied Reinforcement learning. Her recent work in world models for coding at FAIR builds upon a robust body of prior work in causal inference and biases, many contributions of which came as a single-author independent researcher."
+    bio: "Emily McMilin is currently a research scientist at Meta FAIR working on Language Modeling, Causal Inference, and Applied Reinforcement learning. Her recent work in world models for coding at FAIR builds upon a robust body of prior work in causal inference and biases, many contributions of which came as a single-author independent researcher."
 
 fmora:
     name: "Federico Mora Rocha"
